@@ -59,6 +59,8 @@ digitalWrite(ledPin, HIGH);
 Blynk.logEvent("motion_alert", "Unauthorized motion detected!");
 }
 
+---
+
 ## 👨‍💻 Author
 
 **Gino Christian Arellano**  
