@@ -59,3 +59,8 @@ digitalWrite(ledPin, HIGH);
 Blynk.logEvent("motion_alert", "Unauthorized motion detected!");
 }
 
+## 👨‍💻 Author
+
+**Gino Christian Arellano**  
+BSIT Student – Quezon City University  
+GitHub: [@ginoarellano](https://github.com/ginoarellano)
