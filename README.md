@@ -46,17 +46,6 @@ You can also turn the system ON/OFF remotely through the **Blynk app (V1 switch)
 ```
 ---
 
-## 💻 Code Overview
-
-```cpp
-if (distance < 10) {
-  digitalWrite(buzzerPin, HIGH);
-  digitalWrite(ledPin, HIGH);
-  Blynk.logEvent("motion_alert", "Unauthorized motion detected!");
-}
-```
----
-
 ## 👨‍💻 Author
 Gino Christian Arellano
 BSIT Student – Quezon City University
